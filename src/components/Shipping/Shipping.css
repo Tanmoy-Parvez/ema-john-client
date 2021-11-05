@@ -1,0 +1,9 @@
+.shipping-form{
+display: flex;
+flex-direction: column;
+}
+.shipping-form input{
+width: 30%;
+margin: 5px auto;
+padding: 8px;
+}
